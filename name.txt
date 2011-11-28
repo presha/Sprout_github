@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 working on GIT... Master user...
+=======
+working on GIT. trying merge.
+>>>>>>> user
